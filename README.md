@@ -1,4 +1,4 @@
 # KokiZingy.github.io
 DiscordBot「コキロボ」のサイトです
 
-https://kokizingy.github.io/
+https://kokizingy.github.io/kokirobo
